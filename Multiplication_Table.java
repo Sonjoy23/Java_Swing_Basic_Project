@@ -97,7 +97,7 @@ public class Multiplication_Table extends JFrame {
 
     }
     public static void main(String[] args) {
-        Main frame=new Main();
+         Multiplication_Table frame=new Multiplication_Table();
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setBounds(4,3,450,600);
